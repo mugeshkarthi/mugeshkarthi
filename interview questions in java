@@ -1,0 +1,7 @@
+What is exception propagation in Java?
+
+In Java, exception propagation is the process by which an exception that is thrown in a method 
+is passed on to the calling method. When an exception occurs in a method, 
+Java automatically creates an exception object and throws it to the method's caller.
+The caller can then decide how to handle the exception.
+
